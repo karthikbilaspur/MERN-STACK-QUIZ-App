@@ -1,0 +1,49 @@
+/* styles/Result.css */
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;
+    border: 1px solid #cecece;
+    padding: 3em 4em;
+  }
+  
+  .container .flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .container .flex span {
+    font-size: 1.4em;
+    color: #cecece;
+  }
+  
+  .achieve {
+    font-weight: bold;
+    color: #2aff95;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-header {
+    background: #212121;
+    color: #cecece;
+    font-size: 1.1em;
+    text-align: center;
+    padding: 18px 0;
+  }
+  
+  .table-header td {
+    border: 1px solid #faff5a;
+  }
+  
+  .table-body {
+    background: #d8d8d8;
+    font-size: 1.1em;
+    text-align: center;
+    padding: 18px 0;
+  }

@@ -1,0 +1,36 @@
+/* styles/Main.css */
+
+.container ol li {
+    font-size: 1.4em;
+    color: #cecece;
+  }
+  
+  .start, #form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .start {
+    padding-top: 2em;
+  }
+  
+  .start .btn {
+    padding: .2em 1.7em;
+    border-radius: .1em;
+    font-size: 1.2em;
+    background-color: #faff5a;
+    color: #202020;
+    text-decoration: none;
+  }
+  
+  #form {
+    margin-top: 4em;
+  }
+  
+  #form .userid {
+    padding: .7em 2em;
+    width: 50%;
+    border-radius: 3px;
+    font-size: 1em;
+    border: none;
+  }
